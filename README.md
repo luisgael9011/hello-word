@@ -1,3 +1,6 @@
 # hello-word
-Esta es la descripción de la tarea
-Esta es una clase de Sistemas Operativos del dia de ayer
+EVN301
+Braulio Israel Buenrostro Vázquez
+Luis Gael Cisneros Pérez
+Axel Ricardo Méndez Aguirre
+Juarit Roberto Mares Valdez
